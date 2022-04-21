@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;800&display=swap');
+
+@layer base {
+    li {
+        @apply p-4 m-5 text-lg font-Rale
+    }
+    svg {
+        @apply p-4 
+    }
+}
