@@ -5,7 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'Rale': 'Raleway'
+        'Rale': 'Raleway',
+        'RS': 'Roboto Slab',
       },
       boxShadow: {
         'xx': '0px 2.98256px 7.4564px rgba(255, 255, 255, 0.23)'
