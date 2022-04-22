@@ -3,12 +3,17 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;800&display=swap');
-
 @layer base {
     li {
         @apply p-4 m-5 text-lg font-Rale
     }
     svg {
-        @apply p-4 
+        @apply p-4 fill-yellow-400
+    }
+    h1 {
+        @apply text-4xl text-white font-extrabold bg-gradient-to-r from-left-grad via-middle-grad to-end-grad inline-block bg-clip-text text-transparent
+    }
+    h2 {
+        @apply text-2xl text-white m-1.5 font-extrabold bg-gradient-to-r from-left-grad via-middle-grad to-end-grad inline-block bg-clip-text text-transparent
     }
 }
