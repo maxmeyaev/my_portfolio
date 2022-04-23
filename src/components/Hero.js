@@ -5,7 +5,7 @@ export default function Hero() {
   return (
         <div className='w-full h-screen relative'>
             <img src='/images/bg2.png' alt="bg-img" className='w-full h-screen object-cover' />
-            <div className='absolute w-full h-full top-0 flex flex-col justify-center items-center'>
+            <div className='flex absolute w-full h-full top-0 flex-col justify-center items-center'>
                 <h2>Hi, I'm</h2>
                 <h1>Max Meyaev</h1>
                 <div className='flex bottom-0 absolute'>

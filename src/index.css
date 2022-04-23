@@ -9,6 +9,11 @@
         width: 26px;
         margin: 0 7px 20px 7px;
     }
+    .arrow { 
+        width:80px; 
+        height:80px;
+        opacity: 0.4;
+    }
     li {
         @apply p-4 m-5 text-lg font-Rale
     }
