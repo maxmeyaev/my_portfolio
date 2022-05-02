@@ -21,10 +21,10 @@
         @apply p-4
     }
     h1 {
-        @apply font-RS text-5xl text-white font-extrabold bg-gradient-to-r from-left-grad via-middle-grad to-end-grad inline-block bg-clip-text text-transparent
+        @apply font-RS text-white font-extrabold bg-gradient-to-r from-left-grad via-middle-grad to-end-grad inline-block bg-clip-text text-transparent
     }
     h2 {
-        @apply font-RS text-3xl text-white m-1.5 font-extrabold bg-gradient-to-r from-left-grad via-middle-grad to-end-grad inline-block bg-clip-text text-transparent
+        @apply font-RS text-white m-1.5 font-extrabold bg-gradient-to-r from-left-grad via-middle-grad to-end-grad inline-block bg-clip-text text-transparent
     }
 
 }
