@@ -15,6 +15,8 @@ module.exports = {
         'left-grad': 'rgba(255,255,255,0.48)',
         'middle-grad': 'rgba(255,255,255,0.9)',
         'end-grad': 'rgba(255,255,255,0.48)',
+        'about-grad-start': '#402565',
+        'about-grad-end': '#327a66',
       }
     },
   },
